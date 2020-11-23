@@ -1,5 +1,7 @@
 # Nyaa-webApp
 
+[Link to the website](www.pontansubs.cc)
+
 This site gathers newly released fansub episodes of seasonal anime on Nyaa.si. I decided to make this website because HorribleSubs shut down due to Covid issues. Me and many others frequently used this website to find and download seasonal anime. Nyaa delivers fansubs but finding newly released episode takes significantly more effort than the effort it took on HorribleSubs. So I made this episode to display the new releases on Nyaa in a more convenient overview, similar to the one that HorribleSubs used. This was a wonderful project to work on and I was extremely satisfied by the result. I hope others also find joy browsing this site and find this site a suitable alternative to HorribleSubs.
 
 I plan to add additional features to this web app in the feature, such as a filter by name and by video quality. 
